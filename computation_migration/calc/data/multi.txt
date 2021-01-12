@@ -1,0 +1,12 @@
+result_local:  0 10998
+result_local:  23 35708
+result_local:  9 105546
+result_local:  5 31735
+result_local:  6 34089
+total_time_1:  222732
+[0, './image/1.jpg', '{"result": [0, 5385]}']
+[1, './image/5.jpg', '{"result": [23, 17721]}']
+[2, './image/3.jpg', '{"result": [9, 51236]}']
+[3, './image/2.jpg', '{"result": [5, 15829]}']
+[4, './image/4.jpg', '{"result": [6, 18212]}']
+total_time_2:  109270
